@@ -41,8 +41,8 @@ sensor:
         unit_of_measurement: Bq
         accuracy_decimals: 0
       - name: "Radon puls"
-        unit_of_measurement: Bq
+        unit_of_measurement: pulses
         accuracy_decimals: 0
       - name: "Radon puls10"
-        unit_of_measurement: Bq
+        unit_of_measurement: pulses
         accuracy_decimals: 0
