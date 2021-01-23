@@ -2,3 +2,5 @@
 An ESPHome RadonEye RD200 setup, found from https://community.home-assistant.io/t/radoneye-ble-interface/94962/36
 
 This is an update to consider the RadonEye plus 2
+
+Initial forked from https://github.com/spikeygg/esphome_radoneye_rd200 
