@@ -91,7 +91,7 @@ class RadonEye : public PollingComponent, public Sensor {
                     radonval.c[1] = value[3];
                     radonval.c[2] = value[4];
                     radonval.c[3] = value[5];
-                    radonnow = radonval.f;
+                    radonnow = radonval.b;
                     radonval.c[0] = value[6];
                     radonval.c[1] = value[7];
                     radonval.c[2] = value[8];
